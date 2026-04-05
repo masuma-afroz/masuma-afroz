@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 😃
 A CSE undergraduate student. Doing a major in the Data Science sector. 
 <!--
 **masuma-afroz/masuma-afroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
